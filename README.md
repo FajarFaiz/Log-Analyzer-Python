@@ -1,7 +1,7 @@
 <div align="center">
 <video src="https://github.com/user-attachments/assets/925ca379-74ab-4d81-b72f-dcd6949e754f" controls width="100%" 
   style="max-width: 750px; border-radius: 6px;"></video>
-  <p>Project Demonstration video</p></div>
+ <p><strong>Project Demonstration video</strong></p></div>
 
 # Simple Python Log Analyzer
 
